@@ -1,0 +1,18 @@
+EJERCICIO MODELO DE EXAMEN NUMERO 2
+Se te solicita desarrollar un microservicio en Java que permita gestionar la información de una tienda en línea. Para ello, se deberá implementar una serie de funcionalidades que permitan crear, leer, actualizar y eliminar datos de los productos disponibles en la tienda.
+
+En base al siguiente stock (que debe estar generado en un txt) se debera generar un programa que calcule los siguientes indicadores:
+- Precio final (Precio unitario * IVA 21%)
+- Precio final por unidad
+- Cantidad de ventas de productos final
+
+Realizar pruebas unitarias y pruebas de funcionalidades
+
+Información:
+DESCRIPCION		PRECIO_UNITARIO		CANTIDAD_VENDIDA_TOTAL 			   FECHA_ULTIMA_COMPRA
+Remera			5			  100						20/03/2023
+Camisa			15			  50						01/03/2023
+Vestido			25			  20						01/01/2023
+Pantalon		20			  10						01/02/2023
+Sweater			15			  5						25/03/2023
+(!) DETALLE (!): El archivo de salida debe tener todas las columnas enlistadas previamente mas las nuevas tambien.
